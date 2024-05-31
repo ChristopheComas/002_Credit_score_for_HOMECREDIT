@@ -7,3 +7,5 @@ In this study, we analyze a loan applicant database, where each applicant is lab
 * Binary classification tasks : RandomForestClassifier, LogisticRegression,  XGBoost
 * Hyperparameter tuning : RandomizedSearchCV, GridsearchCV
 * Visualisation : Seaborn
+* Interpretability : SHAP
+
